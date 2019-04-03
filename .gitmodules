@@ -1,0 +1,9 @@
+[submodule "cad"]
+	path = cad
+	url = https://github.com/beer-eye/cad.git
+[submodule "electronics"]
+	path = electronics
+	url = https://github.com/beer-eye/electronics.git
+[submodule "software"]
+	path = software
+	url = https://github.com/beer-eye/software.git
